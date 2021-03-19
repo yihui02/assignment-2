@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <haed>
-        <title>Welcome</title>
         <link rel="stylesheet" href="sty.css">
     </haed>
         <h1 style="background-color:rgba(117, 32, 23, 0.2); font-family:verdana;font-size:450%;color:pink;"><blockquote cite>Welcome to Vegetarian Recipe</h1>     
