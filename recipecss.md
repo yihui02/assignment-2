@@ -59,8 +59,9 @@
               Add the cossette and corn kernels together and mix well.</p>
             </fieldset>
             <fieldset>
+                <h4>2.</h4> 
               <img class="img3" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631656.jpg@152w_118h_99q_1e_1c.jpg" alt="p3">
-              <h4>2.</h4> Add Fushou pure sesame oil to adjust the aroma, so that the finished crab shell yellow will have a special fragrance.
+              Add Fushou pure sesame oil to adjust the aroma, so that the finished crab shell yellow will have a special fragrance.
             </fieldset>
             <fieldset>             
               <br/><br/><br/>
