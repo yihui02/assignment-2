@@ -1,21 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" >
     <haed>
-        <title>recipe</title>
         <link rel="stylesheet" href="styles.css">
     </haed>
     <h1>Vegetarian Recipe</h1>
-
     <div class="topnav">
         <a  href="home.html">Home</a>
         <a class="active" href="recipecss.html">Recipe</a>
         <a href="log.html">log In</a>
-      </div>
-      
-    
-    
-    <div class="row">
-        
+      </div> 
+    <div class="row">        
         <div class="Fried vegan vegetable crab shell yellow">
           <h2>Fried vegan vegetable crab shell yellow</h2>
          <div>
@@ -28,11 +22,9 @@
           You will fall in love with the delicacy with one bite.</p>
          </div>
         </fieldset>
-
         <div class="row 1">
          <fieldset>   
               <legend><h3>Materrial</h3></legend>
-           
                <table>
                   <tr>
                     <td>Fushou Pure Sesame Oil  <i><strong>1 spoon</strong</i></td>
@@ -57,8 +49,7 @@
                </table> 
                <br/>
             </div>
-          </fieldest>
-        
+          </fieldest>        
           <div class="row2">
         <fieldset>   
           <legend><h3>Practice</h3></legend>
@@ -67,26 +58,21 @@
               <p>Wash the cabbage, cut into thin strips, wash the corn, and cut the corn kernels; using a cooking bowl, put the flour, eggs, milk, salt, white pepper and soy sauce together, mix well, and then add the Korean cabbage. 
               Add the cossette and corn kernels together and mix well.</p>
             </fieldset>
-
             <fieldset>
               <img class="img3" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631656.jpg@152w_118h_99q_1e_1c.jpg" alt="p3">
               <h4>2.</h4> Add Fushou pure sesame oil to adjust the aroma, so that the finished crab shell yellow will have a special fragrance.
             </fieldset>
-
-            <fieldset>
-              
+            <fieldset>             
               <br/><br/><br/>
               <h4>3</h4><img class="img4" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631878.jpg@152w_118h_99q_1e_1c.jpg" alt="p4">  
               <p>After mixing all the ingredients, heat the pan, pour the brown rice oil, use a spoon to take out a full spoonful of the amount, put it in the oil and fry slowly over a medium-to-small heat until golden brown, and then take it out.</p>
               <br/><br/><br/>
             </fieldset>
-
             <fieldset>
               <h4>4</h4><img class="img5" img src="https://ali.xinshipu.cn/20180127_90/original/1517054632038.jpg@152w_118h_99q_1e_1c.jpg" alt="p5">
               <p>Use isolation nets to drain excess grease.</p>
               <br/><br/><br/><br/>
            </fieldset>
-
           <fieldset>
               <h4>5</h4><img class="img6" img src="https://ali.xinshipu.cn/20180127_90/original/1517054632236.jpg@152w_118h_99q_1e_1c.jpg" alt="p7">
               <p>Delicious on the table~</p> 
