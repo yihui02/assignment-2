@@ -1,0 +1,116 @@
+body
+{
+    background-image:url(https://thumbs.dreamstime.com/b/lunch-sandwiches-fresh-vegetables-bottle-water-green-apple-wooden-table-healthy-eating-concept-top-lunch-sandwiches-121422208.jpg);
+     background-repeat:no-repeat;
+     background-size: cover;
+     
+}
+h1
+{
+    font-size: 5vw;
+    font-family: 'Times New Roman', serif;
+    color:burlywood;
+    text-align: center;
+}
+
+.topnav
+{
+    overflow:hidden;
+    background-color: rgb(173, 172, 154);
+}
+.topnav a {
+    
+    float: left;
+    color: #0a0a09;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+.img1 
+{
+   float:none;
+}
+
+.clearfix
+{
+    overflow:auto;
+}
+
+
+.topnav a:hover {
+
+    background-color: rgb(224, 224, 175);
+    color:rgb(141, 115, 115);
+    border-style: outset;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
+.Fried
+{
+    float: left;
+    width: 90%;
+    padding: 20px;
+    margin: 5px;
+    background-color: khaki;
+    opacity: 0.95;
+   filter:alpha(opacity=70);
+}
+
+.p>{
+ margin-right: 150px;
+  margin-left: 10px;
+}
+
+.table, td {
+    border: 4px solid black;
+    background-color:hsl(0,0%,94%);
+}
+
+table >div{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td
+{
+      padding: 15px;
+}
+
+
+.img2,.img4,.img6 {
+    float: right;
+  }
+  
+  .clearfix {
+    overflow: auto;
+  }
+  
+  .img3,.img5 {
+    float: left;
+  } 
+  
+
+  
+
+
+
+  
+        
+
+  
+
+
+
+
+      
+
+
+
+
+
