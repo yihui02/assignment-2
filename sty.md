@@ -1,5 +1,4 @@
 .topnav a:hover {
-
     background-color: rgb(224, 224, 175);
     color:rgb(141, 115, 115);
     border-style: outset;
@@ -11,7 +10,6 @@
     background-color: rgb(173, 172, 154);
 }
 .topnav a {
-    
     float: left;
     color: #0a0a09;
     padding: 14px 16px;
