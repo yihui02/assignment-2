@@ -54,7 +54,7 @@
         <fieldset>   
           <legend><h3>Practice</h3></legend>
              <fieldset>
-              <h4>1</h4><img class="img2" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631477.jpg@152w_118h_99q_1e_1c.jpg" alt="p2">
+              <h4>1.</h4><img class="img2" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631477.jpg@152w_118h_99q_1e_1c.jpg" alt="p2">
               <p>Wash the cabbage, cut into thin strips, wash the corn, and cut the corn kernels; using a cooking bowl, put the flour, eggs, milk, salt, white pepper and soy sauce together, mix well, and then add the Korean cabbage. 
               Add the cossette and corn kernels together and mix well.</p>
             </fieldset>
@@ -65,17 +65,17 @@
             </fieldset>
             <fieldset>             
               <br/><br/><br/>
-              <h4>3</h4><img class="img4" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631878.jpg@152w_118h_99q_1e_1c.jpg" alt="p4">  
+              <h4>3.</h4><img class="img4" img src="https://ali.xinshipu.cn/20180127_90/original/1517054631878.jpg@152w_118h_99q_1e_1c.jpg" alt="p4">  
               <p>After mixing all the ingredients, heat the pan, pour the brown rice oil, use a spoon to take out a full spoonful of the amount, put it in the oil and fry slowly over a medium-to-small heat until golden brown, and then take it out.</p>
               <br/><br/><br/>
             </fieldset>
             <fieldset>
-              <h4>4</h4><img class="img5" img src="https://ali.xinshipu.cn/20180127_90/original/1517054632038.jpg@152w_118h_99q_1e_1c.jpg" alt="p5">
+              <h4>4.</h4><img class="img5" img src="https://ali.xinshipu.cn/20180127_90/original/1517054632038.jpg@152w_118h_99q_1e_1c.jpg" alt="p5">
               <p>Use isolation nets to drain excess grease.</p>
               <br/><br/><br/><br/>
            </fieldset>
           <fieldset>
-              <h4>5</h4><img class="img6" img src="https://ali.xinshipu.cn/20180127_90/original/1517054632236.jpg@152w_118h_99q_1e_1c.jpg" alt="p7">
+              <h4>5.</h4><img class="img6" img src="https://ali.xinshipu.cn/20180127_90/original/1517054632236.jpg@152w_118h_99q_1e_1c.jpg" alt="p7">
               <p>Delicious on the table~</p> 
       </fieldset>
           </fieldset>
